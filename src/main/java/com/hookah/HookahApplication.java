@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HookahApplication {
 
 	public static void main(String[] args) {
+		
+		System.out.print("rtereterterterteter");
 		SpringApplication.run(HookahApplication.class, args);
 	}
 
